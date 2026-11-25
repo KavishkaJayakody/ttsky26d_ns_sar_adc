@@ -15,6 +15,7 @@ MACRO tt_um_silicon_edge_ns_sar_adc
     END
   END VGND
   PIN VDPWR
+    USE_POWER ;
     ANTENNAGATEAREA 202.440002 ;
     ANTENNADIFFAREA 1888.802734 ;
     PORT
